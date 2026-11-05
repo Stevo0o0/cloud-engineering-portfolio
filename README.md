@@ -27,6 +27,14 @@ Provisioned an Ubuntu-based AWS EC2 web server using Terraform, configured secur
 
 [View Project Repository](https://github.com/Stevo0o0/terraform-aws-ec2-monitoring)
 
+### 2. Ansible Multi-Server Provisioning on AWS
+
+Automated the configuration of four AWS EC2 instances running Ubuntu and CentOS using Ansible. Implemented cross-platform package and service management, host and group inventories, and variable precedence.
+
+**Technologies:** AWS EC2 · Ansible · Ubuntu · CentOS · YAML · Linux
+
+[View Project Repository](https://github.com/Stevo0o0/ansible-multi-server-provisioning)
+
 ## Currently Learning
 
 - Advanced Terraform and AWS infrastructure
